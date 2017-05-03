@@ -1,1 +1,1 @@
-require('./helpers/testFuncs-tests');
+import './helpers/testFuncs-tests';
