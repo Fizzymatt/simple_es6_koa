@@ -4,6 +4,9 @@
 
 * This is an example ES6 application using Koa 2, Webpack 2 and Mocha
 
+### Dependencies
+* NodeJs 7.7.3
+
 ### How do I get set up? ###
 
 * Clone the repo ;)
